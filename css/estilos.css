@@ -1,0 +1,17 @@
+.logo{
+    width: 50px;
+}
+.i-social{
+    font-size: 40px;
+}
+.i-social:hover{
+    opacity:0.8;
+}
+.subrayado-hover{
+    border-bottom: 1px solid white;
+}
+.subrayado-hover:hover{
+    border-bottom: 1px solid #ccc;
+    opacity: 0.9;
+    background: #f2f2f2;
+}
